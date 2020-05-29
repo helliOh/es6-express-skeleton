@@ -1,17 +1,16 @@
 ### Desc.
 ---
-Express skeleton snippet
+Express skeleton
 
 ### Spec.
 ---
-- database : MySQL
-- view engine : NONE
 - ORM : sequelize
-- logger : morgan
-- tester : NONE 
+- socket.io 
+- babel (for es6)
 
 ### Caution
 ---
+- Nodemon is needed
 - Edit **/config/config.json**
 - Add **/config** in **.gitignore** in practical use
 
